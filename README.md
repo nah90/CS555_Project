@@ -1,4 +1,5 @@
 # CS555_Project
 Data Analysis/Visualization in R on meteor showers dataset
 
-Cleaned and wrangled meteor data and then displayed analysis with multiple visualization tools using R (including tidyverse and pyplot/ggplot2 packages).
+
+Examined a cleaned dataset of meteor shower data to try to determine whether or not the four types of undifferentiated meteorites (carbonaceous, ordinary, Rumuruti (R), Enstatite) all have the same mass. Used a one-way ANOVA statistical test and pairwise T-test at the alpha = 0.05 significance level. Coded in R language.
